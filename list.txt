@@ -1,0 +1,11 @@
+Superannuation is a critical component of retirement planning, especially in countries like Australia where it forms the backbone of post-retirement income. However, many users struggle to make informed decisions about where to invest their superannuation funds due to the complexity of financial markets, lack of personalized guidance, and limited understanding of long-term investment strategies.
+
+With the rise of AI and conversational agents, there is an opportunity to empower users with intelligent, personalized investment advice tailored to their superannuation goals.
+
+Design and develop an AI-powered assistant (chatbot) that helps superannuation users make informed investment decisions. The assistant should:
+
+1)Understand the user's financial goals, risk appetite, and retirement timeline.
+Analyze long-term performance of various investment options (e.g., stocks, ETFs, managed funds).
+2)Provide personalized recommendations based on historical data, market trends, and predictive analytics.
+3)Offer explanations and educational insights to improve financial literacy.
+Be interactive, intuitive, and capable of handling natural language queries.
